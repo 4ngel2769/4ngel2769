@@ -1,5 +1,4 @@
-### 
-<img src="https://cdn.discordapp.com/emojis/411893665196408835.png">
+### My profile (? <img src="https://cdn.discordapp.com/emojis/264701195573133315.png">)
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
 ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&theme=blue-green)
