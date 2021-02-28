@@ -7,6 +7,9 @@
 - 🔭 I’m currently working on:
 [Helix](https://crumberry.github.io/helixio)
 #### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
+<a href="https://discord.gg/GapmaCt">
+    <img src="https://discordapp.com/api/guilds/747111170531393679/widget.png?style=shield" alt="shield.png">
+  </a>
 
 - 📫 Socials:
 [Discord](https://discord.gg/cJ4uP2xF7h)
