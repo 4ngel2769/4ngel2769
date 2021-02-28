@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m currently working on:
-![Helix](https://crumberry.github.io/helixio)
+[Helix](https://crumberry.github.io/helixio)
 #### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
 
 - 📫 Socials:
-![Discord](https://discord.gg/cJ4uP2xF7h)
+[Discord](https://discord.gg/cJ4uP2xF7h)
 - ⚡ Fun fact: i can breathe
 -->
