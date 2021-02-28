@@ -1,16 +1,15 @@
-### Hi there 👋
+### 
+<img src="https://cdn.discordapp.com/emojis/411893665196408835.png">
 
-<!--
-**4ngel2769/4ngel2769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&theme=dracula)
+![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&theme=blue-green)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on:
+![Helix](https://crumberry.github.io/helixio)
+#### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
+
+- 📫 Socials:
+![Discord](https://discord.gg/cJ4uP2xF7h)
+- ⚡ Fun fact: i can breathe
 -->
