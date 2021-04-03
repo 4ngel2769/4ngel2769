@@ -65,7 +65,6 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 <img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
 ## Apps & Tools.
-
 <a href="https://www.virtualbox.org/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827938165447852082/virtualbox-3-569544.png" />
 </a>
@@ -87,11 +86,9 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 <a href="https://www.realvnc.com/en/connect/download/viewer/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827942013294608394/icon.png" />
 </a>
-<a href="https://www.raspberrypi.org/">
-  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827943062477996032/RPi-Logo-Reg-SCREEN.png" /> </a>
+<a href="https://www.raspberrypi.org/"> <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827943062477996032/RPi-Logo-Reg-SCREEN.png" /> </a>
 
 ## Operation Systems.
-
 <a href="https://archlinux.org/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827949264520347668/1024px-Archlinux-icon-crystal-64.png" />
 </a>
