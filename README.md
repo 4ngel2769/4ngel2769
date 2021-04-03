@@ -87,6 +87,7 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827942013294608394/icon.png" />
 </a>
 <a href="https://www.raspberrypi.org/"> <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827943062477996032/RPi-Logo-Reg-SCREEN.png" /> </a>
+<img width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827955935166595082/1WljD7gLyX2gr_60o501Z1A.png" />
 
 ## Operation Systems.
 <a href="https://archlinux.org/">
@@ -122,9 +123,9 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 <a href="https://en.wikipedia.org/wiki/MacOS_Big_Sur">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954906086375434/de002zu-cd1eb3cc-b35c-41d8-aaa3-d923c624bdce.png" />
 </a>
-
 <a href="https://blackarch.org/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954022215843881/BlackArch_logo.png" />
 </a>
+<img width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827955935166595082/1WljD7gLyX2gr_60o501Z1A.png" />
 
 ##### ⚡ Fun fact: i can breathe
