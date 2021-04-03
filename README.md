@@ -91,6 +91,44 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827943062477996032/RPi-Logo-Reg-SCREEN.png" />
 </a>
 
+## Operation Systems.
 
+<a href="https://archlinux.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827949264520347668/1024px-Archlinux-icon-crystal-64.png" />
+</a>
+<a href="https://pop.system76.com/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827951940050747402/ms9je823h6y31.png" />
+</a>
+<a href="https://ubuntu.com/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827952141128957962/29985a98-ubuntu-logo32.png" />
+</a>
+<a href="http://www.raspbian.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827952322859761664/Raspi-PGB001.png" />
+</a>
+<a href="https://manjaro.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827952690947555358/85PF1x7.png" />
+</a>
+<a href="https://parrotsec.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827952856903581696/Parrot_Logo.png" />
+</a>
+<a href="https://neon.kde.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827953051699511356/1200px-Neon-logo.png" />
+</a>
+<a href="https://www.microsoft.com/en-ca/windows/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827953359260352562/windows-10-icon-logo-5BC5C69712-seeklogo.png" />
+</a>
+<a href="https://en.wikipedia.org/wiki/MacOS_Mojave">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954245336039484/latest.png" />
+</a>
+<a href="https://en.wikipedia.org/wiki/MacOS_High_Sierra">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954618771832873/latest.png" />
+</a>
+<a href="https://en.wikipedia.org/wiki/MacOS_Big_Sur">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954906086375434/de002zu-cd1eb3cc-b35c-41d8-aaa3-d923c624bdce.png" />
+</a>
+
+<a href="https://blackarch.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827954022215843881/BlackArch_logo.png" />
+</a>
 
 ⚡ Fun fact: i can breathe
