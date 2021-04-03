@@ -25,8 +25,9 @@
 [Helix](https://crumberry.github.io/helixio)
 #### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
 <a href="https://discord.gg/GapmaCt">
-    <img src="https://discordapp.com/api/guilds/747111170531393679/widget.png?style=shield" alt="shield.png">
-  </a>
+  <img src="https://discordapp.com/api/guilds/747111170531393679/widget.png?style=shield" alt="shield.png">
+</a>
+
 Join the support server by [clicking here](https://discord.com/invite/GapmaCt).
 
 Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
@@ -82,6 +83,12 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 </a>
 <a href="https://www.putty.org/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827940227304915034/53d9ae70251739.png" />
+</a>
+<a href="https://www.realvnc.com/en/connect/download/viewer/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827942013294608394/icon.png" />
+</a>
+<a href="https://www.raspberrypi.org/">
+  <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827943062477996032/RPi-Logo-Reg-SCREEN.png" />
 </a>
 
 
