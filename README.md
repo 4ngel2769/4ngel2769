@@ -33,7 +33,7 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 
 [![Discord Bots](https://top.gg/api/widget/status/723697439638290482.svg)](https://top.gg/bot/723697439638290482) [![Discord Bots](https://top.gg/api/widget/servers/723697439638290482.svg?noavatar=true)](https://top.gg/bot/723697439638290482) [![Discord Bots](https://top.gg/api/widget/upvotes/723697439638290482.svg?noavatar=true)](https://top.gg/bot/723697439638290482/vote)
 
-### Languages I use.
+## Languages I use.
 <a href="https://www.javascript.com/">
   <img align="left" alt="Java Script" width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813041368371822632/584735430763741202.png" />
 </a>
@@ -61,9 +61,9 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 <a href="https://www.docker.com/">
   <img align="left" alt="Docker" width="41px" src="https://cdn.discordapp.com/attachments/809031839032672327/814492329133080606/813910634135158784.png" />
 </a>
+<img width="28px" src="https://cdn.discordapp.com/attachments/809031839032672327/813046585960431626/652287907742351370.png" />
 
-
-### Apps & Tools.
+## Apps & Tools.
 
 <a href="https://www.virtualbox.org/">
   <img align="left" alt="Redis" width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827938165447852082/virtualbox-3-569544.png" />
