@@ -131,4 +131,4 @@ Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
 </a>
 <img width="28px" src="https://media.discordapp.net/attachments/733828522400940075/827955935166595082/1WljD7gLyX2gr_60o501Z1A.png" />
 
-##### ⚡ Fun fact: i can breathe
+##### ⚡ Fun fact: i can breathe and drink water!
