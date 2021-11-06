@@ -8,9 +8,7 @@
 <a href="https://discord.gg/RWSEj6JrjJ">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://twitter.com/angel_capra">
-  <img align="left" alt="Twitter" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
-</a>
+[![Twitter](https://img.shields.io/twitter/follow/angel_capra?color=blue&label=Follow%20me%21&logo=twitter&style=flat-square)](https://twitter.com/angel_capra)
 <a href="https://www.reddit.com/user/angelcapra">
   <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a>
