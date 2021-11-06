@@ -19,8 +19,7 @@
 </a>
 
 ![Profile Visits](https://komarev.com/ghpvc/?username=4ngel2769&color=yellow&label=Profile-Visits&width=26px)
-
-[![Discord(Server)](https://img.shields.io/discord/813255312449601597?color=7289DA&logo=discord&style=for-the-badge&label=Server)](https://discord.gg/cJ4uP2xF7h)
+[![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://discord.gg/cJ4uP2xF7h)
 
 
 
