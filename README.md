@@ -4,6 +4,8 @@
 
 # ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
 
+# ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=4ngel2769&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=Contributions%20Graph)
+
 ### Socials 
 <a href="https://discord.gg/RWSEj6JrjJ">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
