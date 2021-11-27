@@ -6,6 +6,9 @@
 ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
 
 ### Socials 
+
+## https://angellabs.gq
+
 <a href="https://discord.gg/cJ4uP2xF7h">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
