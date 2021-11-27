@@ -1,11 +1,12 @@
 # ![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=4ngel2769&hide_border=true&theme=tokyonight)
 
-# ![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
-
 # ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=4ngel2769&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=Contributions%20Graph)
 
+### Here are my most used languages. 
+![Starers](https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&hide_border=true&theme=blue-green)
+
 ### Socials 
-<a href="https://discord.gg/RWSEj6JrjJ">
+<a href="https://discord.gg/cJ4uP2xF7h">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/angelcapra">
