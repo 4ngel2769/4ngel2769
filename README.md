@@ -9,7 +9,7 @@
 
 ## https://angellabs.gq
 
-<a href="https://discord.gg/cJ4uP2xF7h">
+<a href="https://angellabs.gq/discord">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/angelcapra">
@@ -23,7 +23,7 @@
 ![Profile Visits](https://komarev.com/ghpvc/?username=4ngel2769&style=flat-square&color=blueviolet&label=Profile-views!&width=26px)
 [![Music YouTube Channel!](https://img.shields.io/youtube/channel/subscribers/UC0sMfQcAqtViH-0WgHNa8pA?color=ff0000&label=Subscribe%21&logo=youtube&style=flat-square)](https://youtube.com/ToxicBeats123)
 [![Twitter](https://img.shields.io/twitter/follow/angel_capra?color=blue&label=Follow%20me%21&logo=twitter&style=flat-square)](https://twitter.com/angel_capra)
-[![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://discord.gg/cJ4uP2xF7h)
+[![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://angellabgs.gq/discord)
 
 
 
