@@ -33,12 +33,6 @@
 <a href="https://discord.gg/GapmaCt">
   <img src="https://discordapp.com/api/guilds/747111170531393679/widget.png?style=shield" alt="shield.png">
 </a>
-
-Join the support server by [clicking here](https://discord.com/invite/GapmaCt).
-
-Vote for it by [clicking here](https://top.gg/bot/723697439638290482/vote)
-
-[![Discord Bots](https://top.gg/api/widget/status/723697439638290482.svg)](https://top.gg/bot/723697439638290482) [![Discord Bots](https://top.gg/api/widget/servers/723697439638290482.svg?noavatar=true)](https://top.gg/bot/723697439638290482) [![Discord Bots](https://top.gg/api/widget/upvotes/723697439638290482.svg?noavatar=true)](https://top.gg/bot/723697439638290482/vote)
-
+[![Userinfo](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://angellabs.gq/discord)
 
 ##### ⚡ Fun fact: there is no fun fact
