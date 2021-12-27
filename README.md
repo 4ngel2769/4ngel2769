@@ -1,5 +1,4 @@
-# [![Banner](https://media.discordapp.net/attachments/747111170543976457/925131290594902086/angellabs3_redo1.png)](https://www.
-.xyz)
+# [![Banner](https://media.discordapp.net/attachments/747111170543976457/925131290594902086/angellabs3_redo1.png)](https://www.angellabs.xyz)
 
 # ![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=4ngel2769&hide_border=true&theme=tokyonight)
 
