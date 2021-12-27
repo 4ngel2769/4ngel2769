@@ -1,3 +1,6 @@
+# [![Banner](https://media.discordapp.net/attachments/747111170543976457/925131290594902086/angellabs3_redo1.png)](https://www.
+.xyz)
+
 # ![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=4ngel2769&hide_border=true&theme=tokyonight)
 
 # ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=4ngel2769&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=Contributions%20Graph)
@@ -7,9 +10,9 @@
 
 ### Socials 
 
-## https://angellabs.gq
+## https://www.angellabs.xyz
 
-<a href="https://angellabs.gq/discord">
+<a href="https://www.angellabs.xyz/discord">
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/angelcapra">
@@ -26,7 +29,7 @@
 [![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://angellabgs.gq/discord)
 
 
-[![Avatar](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://angellabs.gq/discord)
+[![Avatar](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://www.angellabs.xyz/discord)
 
 
 - 🔭 Projects I'm currently working on:
