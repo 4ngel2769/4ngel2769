@@ -39,3 +39,5 @@
 </a>
 
 ##### ⚡ Fun fact: there is no fun fact
+
+##### Credit for contribution graph theme port: [@Zone-Infinity](https://github.com/zone-infinity)
