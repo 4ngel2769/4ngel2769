@@ -16,7 +16,7 @@
   <img align="left" alt="Discord" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://www.reddit.com/user/angeldev0">
-  <img align="left" alt="Reddit" width="23px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
+  <img align="left" alt="Reddit" width="23px" src="https://www.reddit.com/favicon.ico"/>
 </a>
 <a href="https://www.instagram.com/4ngel2769">
   <img align="left" alt="Instagram" width="23px" src="https://cdn.discordapp.com/attachments/809031839032672327/813024181229715466/436651676858974208.png" />
