@@ -28,9 +28,6 @@
 [![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://angellabgs.gq/discord)
 
 
-[![Avatar](https://discord.c99.nl/widget/theme-3/757050742379905056.png)](https://www.angellabs.xyz/discord)
-
-
 - 🔭 Projects I'm currently working on:
 [Helix](https://bot.helixlabs.ga)
 #### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
