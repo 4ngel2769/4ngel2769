@@ -27,16 +27,6 @@
 [![Twitter](https://img.shields.io/twitter/follow/angeldev0?color=blue&label=Follow%20me%21&logo=twitter&style=flat-square)](https://twitter.com/angeldev0)
 [![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://angellabgs.gq/discord)
 
-### 🔭 Projects I'm currently working on:
-
-[Helix](https://bot.helixlabs.ga)
-
-#### What is Helix? He is a fun/moderation bot used in over 150 servers across Discord!
-
-<a href="https://discord.gg/GapmaCt">
-  <img src="https://discordapp.com/api/guilds/747111170531393679/widget.png?style=shield" alt="shield.png">
-</a>
-
 ##### ⚡ Fun fact: there is no fun fact
 
 ##### Credit for contribution graph theme port: [@Zone-Infinity](https://github.com/zone-infinity)
