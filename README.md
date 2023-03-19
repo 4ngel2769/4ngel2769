@@ -2,7 +2,7 @@
 
 # ![My stats](https://github-readme-stats.vercel.app/api?username=4ngel2769&count_private=true&show_icons=true&include_all_commits=true&hide_border=true&theme=dracula) ![More stats](https://github-readme-streak-stats.herokuapp.com/?user=4ngel2769&hide_border=true&theme=tokyonight)
 
-# ![Commit Graph](https://activity-graph.herokuapp.com/graph?username=4ngel2769&bg_color=1a1b27&color=38bcad&line=628fdb&point=be91f2&area_color=2b3752&area=true&hide_border=true&custom_title=Contributions%20Graph)
+# [![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=4ngel2769&bg_color=0b0f14&color=85adff&line=a3a3a3&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Here are my most used languages in my projects
 
@@ -26,5 +26,3 @@
 [![Discord Community](https://img.shields.io/discord/813255312449601597?color=lightblue&label=stuff%E2%84%A2%EF%B8%8F%F0%9F%8D%81&logo=discord&style=flat-square)](https://angellabgs.gq/discord)
 
 ##### ⚡ Fun fact: there is no fun fact
-
-##### Credit for contribution graph theme port: [@Zone-Infinity](https://github.com/zone-infinity)
