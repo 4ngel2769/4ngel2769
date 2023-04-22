@@ -15,7 +15,6 @@
 
 <a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=compact&bg_color=DEG,07111F,034155&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" alt="Most used languages">
-  <br>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=4ngel2769&theme=github-dark&hide_border=true&border_radius=15&card_width=400&background=45%2C07111F%2C034155&dates=A5A5A5&fire=EB5454" alt="Statistics">
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=4ngel2769&layout=compact&bg_color=DEG,07111F,034155&text_color=fcfcfc&title_color=fffcfc&icon_color=eb0958&hide_border=true&border_radius=15&show_icons=true" alt="stats">
