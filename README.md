@@ -24,5 +24,3 @@
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=4ngel2769&height=400&bg_color=f,f&color=a8a8a8&line=6094d7&area=true&hide_border=true" alt="Contribution Graph">
 </a>
 
-
-##### ⚡ Fun fact: there is no fun fact
