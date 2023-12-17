@@ -7,6 +7,12 @@
 <div align="center">
 </div>
 
+Things and technologies I use
+<!--
+![x](https://skillicons.dev/icons?i=arduino,linux,raspberrypi)
+
+![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers)
+-->
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=4ngel2769&theme=nord&row=1&column=6&title=Stars,Followers,Repositories,Pulls,Experience,Commits&no-frame=true" alt="Stats 'n stuff" />
