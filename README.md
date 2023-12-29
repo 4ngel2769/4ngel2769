@@ -34,4 +34,4 @@ Things and technologies I use
   <img src="https://github-profile-trophy.vercel.app/?username=4ngel2769&theme=nord&row=1&column=6&title=Stars,Followers,Repositories,Pulls,Experience,Commits&no-frame=true" alt="Stats 'n stuff" />
 </p>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=3143dopohxudk7klhn36pcxirsnm&count=2&unique=true&width=400)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cllrzjehmrsr76ydzo5xqi2o2i&count=2&unique=true&width=400)
