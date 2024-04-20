@@ -30,8 +30,8 @@ Things and technologies I use
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4ngel2769&hide_title=true&height=300&bg_color=f,f&color=a8a8a8&line=b5ff20&point=cfff6e&area=true&area_color=274f30&hide_border=true" alt="Contribution Graph" />
 </a>
 
-<p align="">
+<!-- <p align="">
   <img src="https://github-profile-trophy.vercel.app/?username=4ngel2769&theme=nord&row=1&column=6&title=Stars,Followers,Repositories,Pulls,Experience,Commits&no-frame=true" alt="Stats 'n stuff" />
-</p>
+</p> -->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cllrzjehmrsr76ydzo5xqi2o2i&count=2&unique=false&width=400)
