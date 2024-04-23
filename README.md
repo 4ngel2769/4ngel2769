@@ -2,7 +2,7 @@
   <h1>Hello 👋</h1>
   <a href="https://angellabs.xyz">
   </a>
-  <a nref="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+  <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </div>
 <div align="center">
 </div>
