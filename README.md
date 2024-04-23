@@ -2,12 +2,12 @@
   <h1>Hello 👋</h1>
   <a href="https://angellabs.xyz">
   </a>
+  <a nref="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 </div>
-
 <div align="center">
 </div>
 
-Things and technologies I use
+### Things and technologies I use
 
 <!--![x](https://skillicons.dev/icons?i=arduino,linux,raspberrypi)-->
 
