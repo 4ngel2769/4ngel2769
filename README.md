@@ -13,6 +13,13 @@
 
 ![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers)
 
+Currently learning:
+- Lua
+- Proficient use of Javascript and Typescript
+- Proficient use of Python
+- SQL
+- MongoDB
+
 <center>
   <table>
     <tr> 
