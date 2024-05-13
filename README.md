@@ -9,9 +9,25 @@
 
 ### 🔨 Things and technologies I use 🚧
 
+<!-- ### Front-end -->
+
+<!-- ![front-end](https://skillicons.dev/icons?i=js,svelte,next,nuxt,vue,react,html,css,scss,tailwind,bootstrap) -->
+
+<!-- ### Back-end -->
+
+<!-- ![back-end](https://skillicons.dev/icons?i=js,nodejs,express,react,nuxt) -->
+
+<!-- ### Database -->
+
+<!-- ![database](https://skillicons.dev/icons?i=mysql,mongodb,redis) -->
+
+<!-- ### - -->
+
+<!-- ![-](https://skillicons.dev/icons?i=docker,nginx,k8s) -->
+
 <!--![x](https://skillicons.dev/icons?i=arduino,linux,raspberrypi)-->
 
-![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers)
+![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers,next,react,vue,scss,tailwind,bootstrap,express,mysql)
 
 ### ✨ Currently learning ✨
 - Lua
