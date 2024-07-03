@@ -7,7 +7,7 @@
 <div align="center">
 </div>
 
-### 🔨 Things and technologies I use 🚧
+### 🚧 Things and technologies I use
 
 <!-- ### Front-end -->
 
@@ -29,12 +29,21 @@
 
 ![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers,next,react,vue,scss,tailwind,bootstrap,express,mysql)
 
-### ✨ Currently learning ✨
+### 🔨 Currently learning
 - Lua
 - Proficient use of Javascript and Typescript
 - Proficient use of Python
 - SQL
 - MongoDB
+
+### 🗺️ What I'm working on
+- Sysadmin
+  - Managing a couple linux machines/VPSs, docker containers & kubernetes clusters. The linux distros used are Arch, Debian, and Ubuntu as they are perfect for servers and lightweight. (Not arch though, arch is a headache, don't use it as server os.)
+
+- **[Helix](https://github.com/4ngel2769/Helix)** - a Discord bot written in typescript.
+
+- Many other side-projects.
+  - I'm always learning new things and so, naturally, start small projects to test and experiment with the _newfound knowledge_. You can find those right in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.
 
 <center>
   <table>
