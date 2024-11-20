@@ -8,43 +8,36 @@
 <div align="center">
 </div>
 
-### 🚧 Things and technologies I use
-
-<!-- ### Front-end -->
-
-<!-- ![front-end](https://skillicons.dev/icons?i=js,svelte,next,nuxt,vue,react,html,css,scss,tailwind,bootstrap) -->
-
-<!-- ### Back-end -->
-
-<!-- ![back-end](https://skillicons.dev/icons?i=js,nodejs,express,react,nuxt) -->
-
-<!-- ### Database -->
-
-<!-- ![database](https://skillicons.dev/icons?i=mysql,mongodb,redis) -->
-
-<!-- ### - -->
-
-<!-- ![-](https://skillicons.dev/icons?i=docker,nginx,k8s) -->
-
-<!--![x](https://skillicons.dev/icons?i=arduino,linux,raspberrypi)-->
+### 🚧 Technologies I Work With  
 
 ![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers,next,react,vue,scss,tailwind,bootstrap,express,mysql)
 
-### 🔨 Currently learning
-- Lua
-- Proficient use of Javascript and Typescript
-- Proficient use of Python
-- SQL
-- MongoDB
+---
 
-### 🗺️ What I'm working on
-- Sysadmin
-  - Managing a couple linux machines/VPSs, docker containers & kubernetes clusters. The linux distros used are Arch, Debian, and Ubuntu as they are perfect for servers and lightweight. (Not arch though, arch is a headache, don't use it as server os.)
+### 🔨 Currently Learning  
+- Some programming languages (`Lua, JS, TS, Py, Java, C++`)
+- Databases (`SQL, mongoDB, redis`)
+- PCB and circuit design (`mostly with KiCad`)
+- Embedded systems (`esp32 & esp8266, atmega328p, STM32WB55`)
+- Long/short range radio comms (`LoRa, nRF905, cc1101, esp32's BT and WiFi`)
 
-- **[Helix](https://github.com/4ngel2769/Helix)** - a Discord bot written in typescript.
+---
 
-- Many other side-projects.
-  - I'm always learning new things and so, naturally, start small projects to test and experiment with the _newfound knowledge_. You can find those right in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.
+### 🗺️ What I'm Working On  
+
+- **Sysadmin**  
+  - Managing a swarm of Linux machines/VPSs, Docker containers, and Kubernetes clusters.
+
+- **[Helix](https://github.com/4ngel2769/Helix)**  
+  A Discord bot written in TypeScript.  
+
+- **DIY Swappable Brain Board**  
+  A modular PCB powered by an ESP32 that can be swapped between devices like robots and drones—because one brain deserves many bodies. 🧠🚀  
+
+- **Many Side Projects**  
+  I'm always learning new things, and naturally, I start small projects to test and experiment with newfound knowledge. You can find those in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.  
+
+---
 
 <center>
   <table>
@@ -63,8 +56,8 @@
   <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4ngel2769&hide_title=true&height=300&bg_color=f,f&color=a8a8a8&line=b5ff20&point=cfff6e&area=true&area_color=274f30&hide_border=true" alt="Contribution Graph" />
 </a>
 
-<!-- <p align="">
-  <img src="https://github-profile-trophy.vercel.app/?username=4ngel2769&theme=nord&row=1&column=6&title=Stars,Followers,Repositories,Pulls,Experience,Commits&no-frame=true" alt="Stats 'n stuff" />
-</p> -->
+---
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cllrzjehmrsr76ydzo5xqi2o2i&count=2&unique=false&width=400)
+### 🎶 Music for the Journey  
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cllrzjehmrsr76ydzo5xqi2o2i&count=3&unique=false&width=400)
