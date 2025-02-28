@@ -26,7 +26,7 @@
 ### 🗺️ What I'm Working On  
 
 - **Sysadmin**  
-  - Managing a swarm of Linux machines/VPSs, Docker containers, and Kubernetes clusters.
+  - Managing a swarm of Linux machines/VPSs running Docker containers and Kubernetes clusters.
 
 - **[Helix](https://github.com/4ngel2769/Helix)**  
   A Discord bot written in TypeScript.  
