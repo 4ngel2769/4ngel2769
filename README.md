@@ -65,14 +65,14 @@
 - **Many Side Projects**
   > I'm always learning new things, and naturally, I start small projects to test and experiment with newfound knowledge. You can find those in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2rem;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2rem; flex-direction: column; flex-wrap: wrap;">
   <!-- Left: Projects -->
   <div style="flex: 1; min-width: 300px;">
     <h2>To see more of my work, check out my projects <a href="https://angellabs.xyz/projects">here</a>.</h2>
     <img src="https://i.imgur.com/9grVVmU.png" alt="My projects" width="100%" />
   </div>
   <!-- Right: GitHub Stats -->
-  <div style="flex: 1; min-width: 300px;">
+  <div style="display: flex; min-width: 300px; flex-direction: row; align-items: center;">
     <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
     <img height="200" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=donut&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true&langs_count=5&theme=nord" alt="Most used languages" />
   </div>
