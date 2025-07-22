@@ -65,7 +65,7 @@
 - **Many Side Projects**
   > I'm always learning new things, and naturally, I start small projects to test and experiment with newfound knowledge. You can find those in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.
 
-<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2rem; flex-direction: column; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: flex-start; gap: 2rem; flex-direction: column; flex-wrap: nowrap;">
   <!-- Left: Projects -->
   <div style="flex: 1; min-width: 300px;">
     <h2>To see more of my work, check out my projects <a href="https://angellabs.xyz/projects">here</a>.</h2>
