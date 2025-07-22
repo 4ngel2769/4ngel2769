@@ -67,14 +67,14 @@
 
 <div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
   <!-- Top: Projects -->
-  <div style="width: 100%; max-width: 700px;">
+  <div style="width: 100%; max-width: 1000px;">
     <h2>To see more of my work, check out my projects <a href="https://angellabs.xyz/projects">here</a>.</h2>
     <img src="https://i.imgur.com/9grVVmU.png" alt="My projects" width="100%" />
   </div>
   <!-- Bottom: GitHub Stats side by side -->
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2rem; width: 100%; max-width: 700px;">
-    <img height="200" style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
-    <img height="200" style="flex:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=donut&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true&langs_count=5&theme=nord" alt="Most used languages" />
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2rem; width: 100%; max-width: 1000px;">
+    <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
+    <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=donut&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true&langs_count=5&theme=nord" alt="Most used languages" />
   </div>
 </div>
 
