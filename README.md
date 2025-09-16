@@ -7,10 +7,26 @@
 </div>
 <div align="center">
 </div>
-
 ### 🚧 Technologies I Work With
 
-![x](https://skillicons.dev/icons?i=arduino,aws,bash,cloudflare,cmake,codepen,css,html,docker,kubernetes,git,gcp,js,ts,md,linux,mongodb,mysql,netlify,nginx,nodejs,nuxtjs,py,raspberrypi,redis,sqlite,svelte,tailwind,vscode,visualstudio,vue,workers,next,react,vue,scss,tailwind,bootstrap,express,mysql)
+#### 💻 Programming Languages
+![x](https://skillicons.dev/icons?i=js,ts,py,cpp,java,md,bash)
+
+#### 🖥️ Frameworks & Libraries
+![x](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,next,svelte,bootstrap,tailwind,scss)
+
+#### 🛠️ Tools & Platforms
+![x](https://skillicons.dev/icons?i=git,vscode,visualstudio,codepen,linux,raspberrypi,arduino)
+
+#### ☁️ Cloud & DevOps
+![x](https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,netlify,workers)
+
+#### 🗄️ Databases
+![x](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)
+
+#### 🌐 Web Servers & Proxies
+![x](https://skillicons.dev/icons?i=nginx)
+
 
 <div align="center">
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=grey">
