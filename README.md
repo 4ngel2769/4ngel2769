@@ -31,11 +31,6 @@
 
 ---
 
-<div align="center">
-</div>
-
----
-
 ### 🔨 Currently Learning
 - Some programming languages (`Lua, JS, TS, Py, Java, C++`)
 - Databases (`SQL, mongoDB, redis`)
