@@ -7,6 +7,7 @@
 </div>
 <div align="center">
 </div>
+
 ### 🚧 Technologies I Work With
 
 #### 💻 Programming Languages
