@@ -80,9 +80,9 @@
 
 ---
 
-<a href="https://github.com/4ngel2769" align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4ngel2769&hide_title=true&height=300&bg_color=f,f&color=a8a8a8&line=b5ff20&point=cfff6e&area=true&area_color=274f30&hide_border=true" alt="Contribution Graph" />
-</a>
+<!-- <a href="https://github.com/4ngel2769" align="center"> -->
+  <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4ngel2769&hide_title=true&height=300&bg_color=f,f&color=a8a8a8&line=b5ff20&point=cfff6e&area=true&area_color=274f30&hide_border=true" alt="Contribution Graph" /> -->
+<!-- </a> -->
 
 <!-- --- -->
 
