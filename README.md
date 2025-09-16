@@ -4,33 +4,34 @@
   </a>
   <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
   <a href="https://github.com/sponsors/4ngel2769"><img alt="Sponsor 4ngel2769!" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors">
 </div>
 <div align="center">
 </div>
 
 ### 🚧 Technologies I Work With
 
-#### 💻 Programming Languages
-![x](https://skillicons.dev/icons?i=js,ts,py,cpp,java,md,bash)
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=cpp,go,java,js,lua,php,py,rust,ts,bash,md,html,css)
 
-#### 🖥️ Frameworks & Libraries
-![x](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,next,svelte,bootstrap,tailwind,scss)
+#### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,nextjs,svelte,bootstrap,tailwind,threejs)
 
-#### 🛠️ Tools & Platforms
-![x](https://skillicons.dev/icons?i=git,vscode,visualstudio,codepen,linux,raspberrypi,arduino)
+#### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,ansible,terraform,nginx,raspberrypi,arduino,linux,vscode,visualstudio)
 
-#### ☁️ Cloud & DevOps
-![x](https://skillicons.dev/icons?i=aws,gcp,cloudflare,docker,kubernetes,netlify,workers)
+#### Cloud & Hosting
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel,workers)
 
-#### 🗄️ Databases
-![x](https://skillicons.dev/icons?i=mongodb,mysql,sqlite,redis)
+#### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis)
 
-#### 🌐 Web Servers & Proxies
-![x](https://skillicons.dev/icons?i=nginx)
+#### Monitoring & Automation
+![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)
 
+---
 
 <div align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=grey">
 </div>
 
 ---
