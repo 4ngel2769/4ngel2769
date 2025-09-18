@@ -86,7 +86,7 @@
   <!-- </div> -->
   <!-- Bottom: GitHub Stats side by side -->
   <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2rem; width: 100%; max-width: 1000px;">
-    <!-- <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" /> -->
+    <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
     <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=donut&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true&langs_count=5&theme=nord" alt="Most used languages" />
   </div>
 </div>
