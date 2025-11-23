@@ -28,7 +28,7 @@
 
 ---
 
-### 🔨 Currently Learning
+### Currently Learning
 - Some programming languages (`Lua, JS, TS, Py, Java, C++`)
 - Databases (`SQL, mongoDB, redis`)
 - PCB and circuit design (`mostly with KiCad`)
@@ -37,7 +37,7 @@
 
 ---
 
-### 🗺️ What I'm Working On
+### What I'm Working On
 
 - **Network and Server Management**
   > Managing a swarm of Linux machines/VPSs running Docker containers and Kubernetes clusters.
