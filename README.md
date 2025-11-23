@@ -21,13 +21,10 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,ansible,terraform,nginx,raspberrypi,arduino,linux,vscode,visualstudio&perline=9)
 
 #### Cloud & Hosting
-![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel,workers)
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel,workers,grafana,prometheus)
 
 #### Databases
 ![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis)
-
-#### Monitoring & Automation
-![Monitoring](https://skillicons.dev/icons?i=grafana,prometheus)
 
 ---
 
