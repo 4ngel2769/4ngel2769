@@ -12,13 +12,13 @@
 ### 🚧 Technologies I Work With
 
 #### Programming Languages
-![Languages](https://skillicons.dev/icons?i=cpp,go,java,js,lua,php,py,rust,ts,bash,md,html,css)
+![Languages](https://skillicons.dev/icons?i=cpp,go,java,js,lua,php,py,rust,ts,bash,md,html,css&perline=9)
 
 #### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,nextjs,svelte,bootstrap,tailwind,threejs)
+![Frameworks](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,nextjs,svelte,bootstrap,tailwind,threejs&perline=9)
 
 #### Tools & Platforms
-![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,ansible,terraform,nginx,raspberrypi,arduino,linux,vscode,visualstudio)
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,ansible,terraform,nginx,raspberrypi,arduino,linux,vscode,visualstudio&perline=9)
 
 #### Cloud & Hosting
 ![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel,workers)
