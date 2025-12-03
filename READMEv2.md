@@ -13,7 +13,7 @@
   <a href="https://x.com/angeldev0">X</a>
 </p>
 
-<!-- --- -->
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
 I build things that live in two worlds: **hardware and software**. From ESP32 firmware to full-stack web apps, I'm bridging the gap between circuits and cloud infrastructure.
 
