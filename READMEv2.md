@@ -22,7 +22,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 → 5 years crafting web applications (1 year professionally)  
 → 2 years designing embedded systems and IoT devices (1 year professionally)
 
-<!-- --- -->
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
 ### 🔧 My Playground
 
@@ -31,7 +31,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 **DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify  
 **Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication  
 
----
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
 ### 🚀 Active Projects
 
