@@ -29,7 +29,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 **Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi  
 **Web:** TypeScript, Go, Python • React, Nuxt.js, Svelte  
 **DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify  
-**Wireless:** WiFi, Bluetooth, LoRa, ZigBee, RF Communication  
+**Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication  
 
 ---
 
@@ -49,12 +49,12 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 ---
 
-<div align="center">
+<!-- <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=compact&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&langs_count=6" />
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 ### 📌 A Quick Note
 
