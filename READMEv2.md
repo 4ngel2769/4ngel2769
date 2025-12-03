@@ -1,85 +1,115 @@
-<h1 align="center">I'm Angel</h1>
-<p align="center">
-  <em>Embedded Systems Engineer • Full-Stack Developer • Cybersecurity Student</em>
-</p>
-<p align="center">
-  <a href="https://ko-fi.com/angeldev0"><img src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
-  <a href="https://github.com/sponsors/4ngel2769"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a>
-</p>
+## Hello there, I'm Angel 👋
 
-<p align="center">
-  <a href="https://ko-fi.com/angeldev0">Ko-fi</a> • 
-  <a href="https://instagram.com/angeldevz0">Instagram</a> • 
-  <a href="https://x.com/angeldev0">X</a> •
-  <a href="https://youtube.com/@angeldev0">YouTube</a>
-</p>
+<div align="center">
+  <!-- <h1>Hello 👋</h1> -->
+  <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
+  <a href="https://github.com/sponsors/4ngel2769"><img alt="Sponsor 4ngel2769!" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a>
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors">
+</div>
+<div align="center">
+</div>
 
-<p align="center">
-  Contact me at: <a href="mailto:angeldevz0@proton.me"><strong>angeldevz0@proton.me</strong></a>
-</p>
+I'm a developer and embedded systems engineer and student in Cybersecurity. I create full-stack web projects (front-end and back-end), build embedded systems - such as robotics, IoT, and handheld devices - and work extensively with Linux servers, automation, virtualization, and DevOps.
 
+I have 6 years of practical experience with Linux, 5 years of web development experience (1 professionally), and 2 years of experience with embedded systems, including 1 year in a professional role.
 
+__Embedded Systems & IoT__: Designing and programming IoT devices, robots, firmware, and handheld tools, turning my ideas into working prototypes.
+- The chips I work with are the **ESP32**, **RP2040**, **Atmega328p**, **STM32**, and classic **Raspberry Pi arm boards**.
+- For PCB Design
+- Wireless Communication over WiFi, Bluetooth, LoRa, ZigBee, and custom RF frequencies.
 
+__Web development__: Building full-stack web apps focusing on performance, scalability, and user experience.
+- **TypeScript** is my primary language for front-end, as for the back-end, I prefer to *go* with **Go** or **Python**.
+- I use modern frameworks like **React**, **Nuxt.js**, and **Svelte** for front-end development.
+- For back-end development, I use **Go** and **Python** but also **Node.js** with **Express**.
 
+### 🚧 Technologies I Work With
 
+#### Programming Languages
+![Languages](https://skillicons.dev/icons?i=cpp,go,java,js,lua,php,py,rust,ts,bash,md,html,css&perline=9)
 
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
+#### Frameworks & Libraries
+![Frameworks](https://skillicons.dev/icons?i=express,react,vue,nuxtjs,nextjs,svelte,bootstrap,tailwind,threejs&perline=9)
 
-I build things that live in two worlds: **hardware and software**. From ESP32 firmware to full-stack web apps, I'm bridging the gap between circuits and cloud infrastructure.
+#### Tools & Platforms
+![Tools](https://skillicons.dev/icons?i=git,github,githubactions,docker,kubernetes,ansible,terraform,nginx,raspberrypi,arduino,linux,vscode,visualstudio&perline=9)
 
-**Experience:**  
-→ 6 years deep in Linux systems and automation  
-→ 5 years making web applications (1 year professionally)  
-→ 2 years designing embedded systems and IoT devices (1 year professionally)
+#### Cloud & Hosting
+![Cloud](https://skillicons.dev/icons?i=aws,gcp,cloudflare,netlify,vercel,workers,grafana,prometheus)
 
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
+#### Databases
+![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,sqlite,redis)
 
-### 🔧 My Playground
+---
 
-**Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi  
-**Web:** TypeScript, Go, Python / React, Nuxt.js, Svelte  
-**DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify  
-**Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication  
+### Currently Learning
+- Some programming languages (`Lua, JS, TS, Py, Java, C++`)
+- Databases (`SQL, mongoDB, redis`)
+- PCB and circuit design (`mostly with KiCad`)
+- Embedded systems (`esp32 & esp8266, atmega328p, STM32WB55`)
+- Long/short range radio comms (`LoRa, nRF905, cc1101, esp32's BT and WiFi`)
 
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
+---
 
-### 🚀 Active Projects
+### What I'm Working On
 
-**[Machina](https://github.com/4ngel2769/machina)** — PaaS platform using KVM/QEMU and Docker for managing VMs and containers in the cloud
+- **Network and Server Management**
+  > Managing a swarm of Linux machines/VPSs running Docker containers and Kubernetes clusters.
 
-**ESP32 Pentesting Multitool** — Wireless and wired penetration testing device for security assessments (coming soon)
+  ### To see the status of my servers, you can visit [status.angellabs.xyz](https://status.angellabs.xyz).
+  
+  > I use the following tools to manage my servers:
+  > - [Ansible](https://www.ansible.com) for configuration management.
+  > - [Terraform](https://www.terraform.io) for infrastructure as code.
+  > - [Docker](https://www.docker.com) and [Kubernetes](https://kubernetes.io) for container orchestration and management.
+  > - [Tailscale](https://tailscale.com) for secure remote access and networking.
+  > - [Portainer](https://www.portainer.io) for managing Docker containers and Kubernetes clusters.
+  > - [Proxmox](https://www.proxmox.com) for kvm/qemu virtualization and container management.
+  > - [Cloudflare Tunnels](https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/) for securely exposing services to the internet without the need for a public IP address or having ports open.
+  > - [Coolify](https://coolify.io) for managing self-hosted applications and websites. (A wonderful alternative to Heroku, Vercel, or Netlify. Highly recommend it!)
+  > - [Home Assistant](https://www.home-assistant.io) for home automation and IoT device management.
+  > - [Grafana](https://grafana.com) and [Prometheus](https://prometheus.io) for server monitoring and alerts.
+  > - [Traefik](https://traefik.io) and [NginxProxyManager](https://nginxproxymanager.com) for reverse proxy and load balancing.
 
-**[Helix](https://github.com/4ngel2769/Helix)** — Multipurpose Discord bot built with TypeScript & Sapphire  
+- **[Helix](https://github.com/4ngel2769/Helix)** A Discord bot written in TypeScript.
+  > Helix is a multipurpose bot that can be used for moderation, music, and fun in Discord servers.
+  It is designed to be lightweight, fast, and easy to use. It uses the Discord.js library for interacting with the Discord API and will soon be run on Docker containers for easy deployment and management.
+  At its core, Helix uses the [Sapphire](https://github.com/sapphiredev/framework) framework, which provides a solid foundation for building Discord bots using TypeScript.
 
-**Swappable Robotics Brain Board** — Universal ESP32 PCB for robots and IoT projects that you can plug into any project without resoldering (coming soon)
+- **Swappable Brain Board**
+  > A single-board PCB powered by an ESP32 microcontroller with most of what you need for robotics and IoT projects.
+  The goal of this project is to create a single board brain to no longer need to always solder boards or esp modules in projects.
+  Instead, you can just plug in the board and have it ready to go. This will allow you to easily swap out the board from a project and use in another without worrying about needing to desolder or rewire things.
 
-**Home\* Lab** — Running a fleet of Linux VPSs and servers with Docker swarms and K8s clusters • [Check status](https://status.angellabs.xyz)
+- **Hosting**
+  > I use [Coolify](https://coolify.io) to manage my self-hosted applications and websites like [angellabs.xyz](https://angellabs.xyz) and [Helix](https://github.com/4ngel2769/Helix).
+  > I also host my own DNS server and VPSs for some friends and family.
+  > Coolify is a very useful tool for deployment, rollbacks, and scaling of applications.
 
-**[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I draft and break things while learning
+- **Many Side Projects**
+  > I'm always learning new things, and naturally, I start small projects to test and experiment with newfound knowledge. You can find those in **[4ngel2769/side-projects](https://github.com/4ngel2769/side-projects/)**.
 
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
+<div style="display: flex; flex-direction: column; align-items: center; gap: 2rem;">
+  <!-- Top: Projects -->
+  <!-- <div style="width: 100%; max-width: 1000px;"> -->
+    <!-- <h2>To see more of my work, check out my projects <a href="https://angellabs.xyz/projects">here</a>.</h2> -->
+    <!-- <img src="https://i.imgur.com/9grVVmU.png" alt="My projects" width="100%" /> -->
+  <!-- </div> -->
+  <!-- Bottom: GitHub Stats side by side -->
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center; gap: 2rem; width: 100%; max-width: 1000px;">
+    <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
+    <img width="auto" style="flex:1;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=donut&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true&langs_count=5&theme=nord" alt="Most used languages" />
+  </div>
+</div>
 
-<!-- <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4ngel2769&layout=compact&bg_color=0e161a&text_color=fcfcfc&title_color=fffcfc&hide_border=true&border_radius=15&langs_count=6" />
-</div> -->
+---
+
+<!-- <a href="https://github.com/4ngel2769" align="center"> -->
+  <!-- <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=4ngel2769&hide_title=true&height=300&bg_color=f,f&color=a8a8a8&line=b5ff20&point=cfff6e&area=true&area_color=274f30&hide_border=true" alt="Contribution Graph" /> -->
+<!-- </a> -->
 
 <!-- --- -->
 
-> ### 📌 A heads up
->
->These repositories represent real learning and experimentation. You'll find working prototypes, not production-ready products. I'm one person building these in my spare time while studying cybersecurity.
->
->Spotted an issue? Open a PR. Want a feature? Fork it and build it. I'm always happy to collaborate with people who bring solutions.
+<!-- ### 🎶 Music for the Journey  -->
 
-<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
-
-<p align="center"><em>Thanks for visiting. Feel free to explore, fork, and build something awesome.</em></p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors" alt="Visitors" />
-</div>
-
-<!-- <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a> -->
-
-<!-- <a href="https://github.com/sponsors/4ngel2769"><img alt="Sponsor 4ngel2769!" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a> -->
+<!-- ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cllrzjehmrsr76ydzo5xqi2o2i&count=3&unique=false&width=400) -->
