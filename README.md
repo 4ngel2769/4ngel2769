@@ -74,7 +74,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-<p align="center"><em>Thanks for visiting. Feel free to explore, fork, and build something awesome.</em></p>
+<p align="center"><em>— Thanks for visiting. Feel free to explore, fork, and build something awesome. —</em></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors" alt="Visitors" />
