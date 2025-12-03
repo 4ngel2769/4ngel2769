@@ -47,7 +47,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 **[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I break things while learning
 
----
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
 <!-- <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=4ngel2769&bg_color=0e161a&text_color=bfbfbf&title_color=fffcfc&hide_border=true&border_radius=15&show_icons=true" />
@@ -56,7 +56,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 <!-- --- -->
 
-### 📌 A Quick Note
+### 📌 A heads up
 
 These repositories represent real learning and experimentation. You'll find working prototypes, not production-ready products. I'm one person building these in my spare time while studying cybersecurity.
 
@@ -64,7 +64,7 @@ Spotted an issue? Open a PR. Want a feature? Fork it and build it. I'm always ha
 
 **[angellabs.xyz](https://angellabs.xyz)** • **angeldevz0@proton.me**
 
----
+<h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
 <p align="center"><em>Thanks for visiting. Feel free to explore, fork, and build something awesome.</em></p>
 <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
