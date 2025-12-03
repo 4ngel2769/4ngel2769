@@ -22,7 +22,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 → 5 years crafting web applications (1 year professionally)  
 → 2 years designing embedded systems and IoT devices (1 year professionally)
 
----
+<!-- --- -->
 
 ### 🔧 My Playground
 
