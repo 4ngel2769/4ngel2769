@@ -1,4 +1,4 @@
-<h1 align="center">👋 Angel</h1>
+<h1 align="center">I'm Angel</h1>
 <p align="center">
   <em>Embedded Systems Engineer • Full-Stack Developer • Cybersecurity Student</em>
 </p>
