@@ -7,6 +7,12 @@
   <a href="https://github.com/sponsors/4ngel2769"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a>
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/angeldev0">Ko-fi</a> • 
+  <a href="https://instagram.com/angeldevz0">Instagram</a> • 
+  <a href="https://x.com/angeldev0">X</a>
+</p>
+
 ---
 
 I build things that live in two worlds: **hardware and software**. From ESP32 firmware to full-stack web apps, I'm bridging the gap between circuits and cloud infrastructure.
@@ -29,11 +35,15 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 ### 🚀 Active Projects
 
+**[Machina](https://github.com/4ngel2769/machina)** — PaaS platform using KVM/QEMU and Docker for managing VMs and containers in the cloud
+
+**ESP32 Pentesting Multitool** — Wireless and wired penetration testing device for security assessments (coming soon)
+
 **[Helix](https://github.com/4ngel2769/Helix)** — Multipurpose Discord bot built with TypeScript & Sapphire  
 
-**Swappable Brain Board** — Universal ESP32 PCB for robotics that you can plug into any project without resoldering
+**Swappable Robotics Brain Board** — Universal ESP32 PCB for robots and IoT projects that you can plug into any project without resoldering (coming soon)
 
-**Infrastructure Lab** — Running a fleet of Linux VPSs with Docker swarms and K8s clusters • [Check status](https://status.angellabs.xyz)
+**Home\* Lab** — Running a fleet of Linux VPSs and servers with Docker swarms and K8s clusters • [Check status](https://status.angellabs.xyz)
 
 **[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I break things while learning
 
@@ -57,7 +67,7 @@ Spotted an issue? Open a PR. Want a feature? Fork it and build it. I'm always ha
 ---
 
 <p align="center"><em>Thanks for visiting. Feel free to explore, fork, and build something awesome.</em></p>
-<!-- <h1>Hello 👋</h1> -->
 <a href="https://ko-fi.com/angeldev0"><img alt="Support me on Ko-fi!" src="https://ko-fi.com/img/githubbutton_sm.svg"></a>
 <a href="https://github.com/sponsors/4ngel2769"><img alt="Sponsor 4ngel2769!" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA"></a>
 
+<img alt="Profile views" src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors">
