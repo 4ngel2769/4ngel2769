@@ -27,7 +27,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 ### 🔧 My Playground
 
 **Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi  
-**Web:** TypeScript, Go, Python • React, Nuxt.js, Svelte  
+**Web:** TypeScript, Go, Python / React, Nuxt.js, Svelte  
 **DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify  
 **Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication  
 
