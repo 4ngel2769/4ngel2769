@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://ko-fi.com/angeldev0">Ko-fi</a> • 
   <a href="https://instagram.com/angeldevz0">Instagram</a> • 
-  <a href="https://x.com/angeldev0">X</a> •
+  <a href="https://x.com/angeldev0">X</a> • 
   <a href="https://youtube.com/@angeldev0">YouTube</a>
 </p>
 
@@ -27,19 +27,19 @@
 
 I build things that live in two worlds: **hardware and software**. From ESP32 firmware to full-stack web apps, I'm bridging the gap between circuits and cloud infrastructure.
 
-**Experience:**  
-→ 6 years deep in Linux systems and automation  
-→ 5 years making web applications (1 year professionally)  
-→ 2 years designing embedded systems and IoT devices (1 year professionally)
+**My experience includes**
+- 6 years deep in Linux systems and automation
+- 5 years making web applications (1 year professionally)
+- 2 years designing embedded systems and IoT devices (1 year professionally)
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-### 🔧 My Playground
+### Tech stack
 
-**Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi  
-**Web:** TypeScript, Go, Python / React, Nuxt.js, Svelte  
-**DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify  
-**Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication  
+**Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi
+**Web:** TypeScript, Go, Python / React, Nuxt.js, Svelte
+**DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify
+**Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
