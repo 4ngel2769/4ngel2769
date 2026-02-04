@@ -37,8 +37,11 @@ I build things accross both hardware and software. From ESP32 firmware to full-s
 ### Tech stack
 
 **Hardware:** ESP32, RP2040, STM32, Atmega328p, Raspberry Pi
+
 **Web:** TypeScript, Go, Python / React, Nuxt.js, Svelte
+
 **DevOps:** Docker, Kubernetes, Ansible, Terraform, Proxmox, Coolify
+
 **Wireless:** WiFi, Bluetooth, LoRa, ZigBee, custom RF Communication
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
