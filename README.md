@@ -25,7 +25,7 @@
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-I build things that live in two worlds: **hardware and software**. From ESP32 firmware to full-stack web apps, I'm bridging the gap between circuits and cloud infrastructure.
+I build things accross both hardware and software. From ESP32 firmware to full-stack web apps and mechanical robots, making hardware play nice with software.
 
 **My experience includes**
 - 6 years deep in Linux systems and automation
@@ -43,7 +43,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-### 🚀 Active Projects
+### 🚀 Some of my projects
 
 **[Machina](https://github.com/4ngel2769/machina)** — PaaS platform using KVM/QEMU and Docker for managing VMs and containers in the cloud
 
@@ -53,9 +53,9 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 **Swappable Robotics Brain Board** — Universal ESP32 PCB for robots and IoT projects that you can plug into any project without resoldering (coming soon)
 
-**Home\* Lab** — Running a fleet of Linux VPSs and servers with Docker swarms and K8s clusters • [Check status](https://status.angellabs.xyz)
+**Home\* Lab** — Running a fleet of Linux servers with Docker swarms and K8s clusters (with proper networking) • [Check status](https://status.angellabs.xyz)
 
-**[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I draft and break things while learning
+**[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I draft and break things
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
@@ -74,7 +74,7 @@ I build things that live in two worlds: **hardware and software**. From ESP32 fi
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-<p align="center"><em>— Thanks for visiting. Feel free to explore, fork, and build something awesome. —</em></p>
+<p align="center"><em>— Thanks for visiting. Explore, fork, and build something awesome. —</em></p>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=4ngel2769&style=for-the-badge&color=141d2b&label=Visitors" alt="Visitors" />
