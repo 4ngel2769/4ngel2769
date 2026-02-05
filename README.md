@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  Contact me at: <a href="mailto:angeldevz0@proton.me"><strong>angeldevz0@proton.me</strong></a>
+  Contact me at: <a href="mailto:angeldevz0@proton.me"><strong>angeldevz0 [@] proton [.] me</strong></a>
 </p>
 
 
