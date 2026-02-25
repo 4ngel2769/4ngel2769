@@ -28,7 +28,7 @@
 I build things accross both hardware and software. From ESP32 firmware to full-stack web apps and mechanical robots, making hardware play nice with software.
 
 **My experience includes**
-- 6 years deep in Linux systems and automation
+- 7 years deep in Linux systems and automation
 - 5 years making web applications (1 year professionally)
 - 2 years designing embedded systems and IoT devices (1 year professionally)
 
@@ -46,19 +46,21 @@ I build things accross both hardware and software. From ESP32 firmware to full-s
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
-### 🚀 Some of my projects
+### Some projects
 
-**[Machina](https://github.com/4ngel2769/machina)** — PaaS platform using KVM/QEMU and Docker for managing VMs and containers in the cloud
+**[Machina](https://github.com/4ngel2769/machina)** — PaaS software using KVM/QEMU and Docker for managing both VMs and containers on your server
 
-**ESP32 Pentesting Multitool** — Wireless and wired penetration testing device for security assessments (coming soon)
+**[SpotiTube](https://github.com/4ngel2769/spotitube)** — CLI script for downloading your Spotify and YouTube music libraries locally
 
 **[Helix](https://github.com/4ngel2769/Helix)** — Multipurpose Discord bot built with TypeScript & Sapphire  
 
+**Home\* Lab** — Running a fleet of Linux servers with Docker swarms and K8s clusters (with proper networking) | [Check status](https://status.angellabs.xyz)
+
+**ESP32 Pentesting Multitool** — Wireless and wired penetration testing device for security assessments (coming soon)
+
 **Swappable Robotics Brain Board** — Universal ESP32 PCB for robots and IoT projects that you can plug into any project without resoldering (coming soon)
 
-**Home\* Lab** — Running a fleet of Linux servers with Docker swarms and K8s clusters (with proper networking) • [Check status](https://status.angellabs.xyz)
-
-**[Side Experiments](https://github.com/4ngel2769/side-projects/)** — Where I draft and break things
+**[Side projects](https://github.com/4ngel2769/side-projects/)** — That's it, side projects
 
 <h1 align="center" style="color:#00ff00; font-family:monospace;"></h1>
 
@@ -71,7 +73,7 @@ I build things accross both hardware and software. From ESP32 firmware to full-s
 
 > ### 📌 A heads up
 >
->These repositories represent real learning and experimentation. You'll find working prototypes, not production-ready products. I'm one person building these in my spare time while studying cybersecurity.
+>These repositories represent real learning and experimentation. You'll find prototypes, production-ready products, and lots of testing. I'm one person building these in my spare time while studying cybersecurity.
 >
 >Spotted an issue? Open a PR. Want a feature? Fork it and build it. I'm always happy to collaborate with people who bring solutions.
 
