@@ -28,7 +28,7 @@
 I build things accross both hardware and software. From ESP32 firmware to full-stack web apps and mechanical robots, making hardware play nice with software.
 
 **My experience includes**
-- 8 years deep in Linux systems and automation
+- 8 years working with Linux systems and automation scripts
 - 6 years making web applications (1 year professionally)
 - 2 years designing embedded systems and IoT devices (1 year professionally)
 
